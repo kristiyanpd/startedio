@@ -8,7 +8,6 @@
 button {
     background: transparent;
     border: none;
-    border-radius: 1rem;
 }
 
 .button {
@@ -21,12 +20,8 @@ button {
 }
 
 .button[aria-expanded="true"] .hamburger {
-    translate: 10px -10px;
+    translate: 3px -3px;
     rotate: 0.125turn;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .button .line {
