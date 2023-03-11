@@ -2,7 +2,7 @@
   "name": "startedio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://startedio.com",
+  "homepage": "http://startedio.com",
   "dependencies": {
     "@types/node": "^16.18.12",
     "@types/react": "^18.0.28",
